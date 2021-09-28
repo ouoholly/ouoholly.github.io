@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的倉庫 | ouoholly</title>
+  <icon>https://ouoholly.github.io/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ouoholly.github.io/"/>
+  <updated>2021-09-28T15:57:07.964Z</updated>
+  <id>https://ouoholly.github.io/</id>
+  
+  <author>
+    <name>ouoholly</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>把Excel資料批量填入Photoshop模板 (Image - Variables - Define - Data Sets)</title>
+    <link href="https://ouoholly.github.io/post/Excel-data-to-Photoshop/"/>
+    <id>https://ouoholly.github.io/post/Excel-data-to-Photoshop/</id>
+    <published>2021-09-28T14:45:00.000Z</published>
+    <updated>2021-09-28T15:57:07.964Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Video-tutorials&quot;&gt;&lt;a href=&quot;#Video-tutorials&quot; class=&quot;headerlink&quot; title=&quot;Video tutorials&quot;&gt;&lt;/a&gt;Video tutorials&lt;/h1&gt;&lt;p&gt;Special thanks to the video below!! &lt;img alt=&quot;表符-比心&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="batch" scheme="https://ouoholly.github.io/tags/batch/"/>
+    
+      <category term="MS Office" scheme="https://ouoholly.github.io/tags/MS-Office/"/>
+    
+      <category term="Excel" scheme="https://ouoholly.github.io/tags/Excel/"/>
+    
+      <category term="Photoshop" scheme="https://ouoholly.github.io/tags/Photoshop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>把Excel資料批量填入Word檔模板 (Mailings Merge function)</title>
+    <link href="https://ouoholly.github.io/post/Excel-data-to-Word/"/>
+    <id>https://ouoholly.github.io/post/Excel-data-to-Word/</id>
+    <published>2021-09-18T14:45:00.000Z</published>
+    <updated>2021-09-18T15:05:18.078Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-準備-Excel-資料和-Word-模板&quot;&gt;&lt;a href=&quot;#1-準備-Excel-資料和-Word-模板&quot; class=&quot;headerlink&quot; title=&quot;1. 準備 Excel 資料和 Word 模板&quot;&gt;&lt;/a&gt;1. 準備 Excel 資料和 Word 模板&lt;/h1&gt;&lt;p&gt;&lt;img alt=&quot;prepare Excel data and Word template file&quot; data-src=&quot;https://i.imgur.com/iEJETLK.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="batch" scheme="https://ouoholly.github.io/tags/batch/"/>
+    
+      <category term="MS Office" scheme="https://ouoholly.github.io/tags/MS-Office/"/>
+    
+      <category term="Excel" scheme="https://ouoholly.github.io/tags/Excel/"/>
+    
+      <category term="Word" scheme="https://ouoholly.github.io/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【紀錄】Github Hexo 個人博客，由 Windows 轉到 Mac 新電腦</title>
+    <link href="https://ouoholly.github.io/post/hexo-in-new-mac/"/>
+    <id>https://ouoholly.github.io/post/hexo-in-new-mac/</id>
+    <published>2021-09-15T16:40:00.000Z</published>
+    <updated>2021-09-15T17:40:17.094Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;把這個 github blog 遷移到新電腦。&lt;/p&gt;
+&lt;p&gt;之前這篇&lt;a href=&quot;https://ouoholly.github.io/post/build-github-hexo-butterfly-record/&quot;&gt;【紀錄】由零開始，Github + Hexo (Butterfly theme) 搭建個人博客&lt;/a&gt; 是用 Windows
+        
+      
+    
+    </summary>
+    
+    
+      <category term="架站記錄" scheme="https://ouoholly.github.io/categories/%E6%9E%B6%E7%AB%99%E8%A8%98%E9%8C%84/"/>
+    
+    
+      <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://ouoholly.github.io/tags/Github/"/>
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/tags/%E7%AD%86%E8%A8%98/"/>
+    
+      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Python 爬蟲】抓取網頁某個特定 class 的標題/連結</title>
+    <link href="https://ouoholly.github.io/post/python-web-crawl-class-title-urls/"/>
+    <id>https://ouoholly.github.io/post/python-web-crawl-class-title-urls/</id>
+    <published>2021-04-06T09:26:00.000Z</published>
+    <updated>2021-04-06T09:33:32.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;記錄一下。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;抓取某一個class&quot;&gt;&lt;a href=&quot;#抓取某一個class&quot; class=&quot;headerlink&quot; title=&quot;抓取某一個class&quot;&gt;&lt;/a&gt;抓取某一個class&lt;/h1&gt;&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+      <category term="爬蟲" scheme="https://ouoholly.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Hexo Butterfly 主題加上隨機文章功能</title>
+    <link href="https://ouoholly.github.io/post/add-random-article-function-hexo-butterfly/"/>
+    <id>https://ouoholly.github.io/post/add-random-article-function-hexo-butterfly/</id>
+    <published>2020-09-26T17:00:00.000Z</published>
+    <updated>2020-09-26T17:12:18.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;感謝 &lt;a href=&quot;https://cndrew.cn/2019/10/19/plugin/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Uncle_drew&lt;/a&gt; 製作出Hexo隨機文章功能插件 &lt;a href=&quot;https://github.com/Drew233/hexo-generator-random&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hexo-generator-random&lt;/a&gt; &lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="架站記錄" scheme="https://ouoholly.github.io/categories/%E6%9E%B6%E7%AB%99%E8%A8%98%E9%8C%84/"/>
+    
+    
+      <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
+    
+      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Hexo Butterfly 主題加上 LikeCoin Button</title>
+    <link href="https://ouoholly.github.io/post/add-likecoin-btn-to-hexo-butterfly/"/>
+    <id>https://ouoholly.github.io/post/add-likecoin-btn-to-hexo-butterfly/</id>
+    <published>2020-09-26T15:59:00.000Z</published>
+    <updated>2021-09-28T15:53:10.515Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img alt=&quot;LikeCoin on Hexo Butterfly theme preivew&quot; data-src=&quot;https://i.imgur.com/QiD37CQ.png&quot; src=&quot;/img/loading.svg&quot; class=&quot;lazyload&quot;&gt;&lt;/p&gt;
+&lt;p&gt;網上找到的 LikeCoin Hexo教學都是用 ejs ，但 Butterfly 主題是用 pug ，所以這裡出一篇文章以 Hexo Butterfly 主題為例，分享如何在 pug 中添加
+        
+      
+    
+    </summary>
+    
+    
+      <category term="架站記錄" scheme="https://ouoholly.github.io/categories/%E6%9E%B6%E7%AB%99%E8%A8%98%E9%8C%84/"/>
+    
+    
+      <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
+    
+      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Python 爬蟲】抓取 Google 搜尋結果的連結</title>
+    <link href="https://ouoholly.github.io/post/python-web-crawl-google-search-result-urls/"/>
+    <id>https://ouoholly.github.io/post/python-web-crawl-google-search-result-urls/</id>
+    <published>2020-08-24T12:35:00.000Z</published>
+    <updated>2020-08-24T14:39:16.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;記錄一下批量抓取 Google 搜尋結果裡的連結的方法。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果還沒有安裝以下，要先下載安裝：&lt;/p&gt;
+&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div class=&quot;code_lang&quot;&gt;cmd&lt;/div&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+      <category term="爬蟲" scheme="https://ouoholly.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>令 Windows 10 視覺上更快更流暢，關閉動畫效果設定</title>
+    <link href="https://ouoholly.github.io/post/win10-turnoff-animation-effect-setting/"/>
+    <id>https://ouoholly.github.io/post/win10-turnoff-animation-effect-setting/</id>
+    <published>2020-05-29T09:37:00.000Z</published>
+    <updated>2020-06-03T11:47:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-Go-to-Settings&quot;&gt;&lt;a href=&quot;#1-Go-to-Settings&quot; class=&quot;headerlink&quot; title=&quot;1. Go to Settings&quot;&gt;&lt;/a&gt;1. Go to Settings&lt;/h1&gt;&lt;p&gt;click &lt;code&gt;Ease of Access&lt;/code&gt;&lt;br&gt;&lt;img alt=&quot;step 1&quot; data-src=&quot;https://i.imgur.com/uWIWj1Q.jpg&quot; src=&quot;/img/loading.svg&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="windows 10" scheme="https://ouoholly.github.io/tags/windows-10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【個人用途記錄】Python 爬蟲 - 抓取及解析 HTML 網頁資料</title>
+    <link href="https://ouoholly.github.io/post/python-web-crawl-shhh/"/>
+    <id>https://ouoholly.github.io/post/python-web-crawl-shhh/</id>
+    <published>2020-05-11T14:15:00.000Z</published>
+    <updated>2020-06-04T10:01:08.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;記錄一下最近的個人用法。&lt;br&gt;刷得太快追趕不上，而且用手機追看吃噗太嚴重了 &lt;img alt=&quot;表符-心累&quot; data-src=&quot;https://emos.plurk.com/5533147d2b0d0d278c7e880d0a1242bf_w20_h20.gif&quot; src=&quot;/img/loading.svg&quot; class=&quot;lazyload&quot;&gt;&lt;br&gt;決定用電腦一次過爬了後，再放進word檔導進手機慢慢追看。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;做法-basic&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+      <category term="爬蟲" scheme="https://ouoholly.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【筆記】正則表達式 Regular expression (Regex)</title>
+    <link href="https://ouoholly.github.io/post/note-regular-expression-regex/"/>
+    <id>https://ouoholly.github.io/post/note-regular-expression-regex/</id>
+    <published>2020-04-13T16:13:00.000Z</published>
+    <updated>2020-06-04T10:01:06.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;解釋&quot;&gt;&lt;a href=&quot;#解釋&quot; class=&quot;headerlink&quot; title=&quot;解釋&quot;&gt;&lt;/a&gt;解釋&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Regex&lt;/th&gt;
+&lt;th&gt;Explanation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&amp;gt;= 1 —
+        
+      
+    
+    </summary>
+    
+    
+      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
+    
+    
+      <category term="regex" scheme="https://ouoholly.github.io/tags/regex/"/>
+    
+  </entry>
+  
+</feed>
