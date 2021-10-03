@@ -41,9 +41,9 @@
     
       <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
     
-      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
     
   </entry>
   
@@ -52,7 +52,7 @@
     <link href="https://ouoholly.github.io/post/github-profile-readme/"/>
     <id>https://ouoholly.github.io/post/github-profile-readme/</id>
     <published>2021-10-03T08:21:00.000Z</published>
-    <updated>2021-10-03T08:46:19.369Z</updated>
+    <updated>2021-10-03T15:04:00.315Z</updated>
     
     <summary type="html">
     
@@ -61,7 +61,8 @@
         
         
           &lt;h1 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h1&gt;&lt;p&gt;創建一個和自己 username 一樣名的 repo，就可以展示在自己的 github public profile 中（如下圖）。&lt;/p&gt;
-&lt;p&gt;我的： &lt;a href=&quot;https://github.com/ouoholly/ouoholly&quot; target=&quot;_blank&quot;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
         
       
     
@@ -80,7 +81,7 @@
     <link href="https://ouoholly.github.io/post/Excel-data-to-Photoshop/"/>
     <id>https://ouoholly.github.io/post/Excel-data-to-Photoshop/</id>
     <published>2021-09-28T14:45:00.000Z</published>
-    <updated>2021-09-28T15:57:07.964Z</updated>
+    <updated>2021-09-28T15:57:07.000Z</updated>
     
     <summary type="html">
     
@@ -113,7 +114,7 @@
     <link href="https://ouoholly.github.io/post/Excel-data-to-Word/"/>
     <id>https://ouoholly.github.io/post/Excel-data-to-Word/</id>
     <published>2021-09-18T14:45:00.000Z</published>
-    <updated>2021-09-18T15:05:18.078Z</updated>
+    <updated>2021-09-18T15:05:18.000Z</updated>
     
     <summary type="html">
     
@@ -146,7 +147,7 @@
     <link href="https://ouoholly.github.io/post/hexo-in-new-mac/"/>
     <id>https://ouoholly.github.io/post/hexo-in-new-mac/</id>
     <published>2021-09-15T16:40:00.000Z</published>
-    <updated>2021-09-15T17:40:17.094Z</updated>
+    <updated>2021-09-15T17:40:17.000Z</updated>
     
     <summary type="html">
     
@@ -233,9 +234,9 @@
     
       <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
     
-      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
     
   </entry>
   
@@ -244,7 +245,7 @@
     <link href="https://ouoholly.github.io/post/add-likecoin-btn-to-hexo-butterfly/"/>
     <id>https://ouoholly.github.io/post/add-likecoin-btn-to-hexo-butterfly/</id>
     <published>2020-09-26T15:59:00.000Z</published>
-    <updated>2021-09-28T15:53:10.515Z</updated>
+    <updated>2021-09-28T15:53:10.000Z</updated>
     
     <summary type="html">
     
@@ -265,9 +266,9 @@
     
       <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
     
-      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
     
   </entry>
   
