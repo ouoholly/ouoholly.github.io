@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Github profile README.md</title>
+      <link href="/post/github-profile-readme/"/>
+      <url>/post/github-profile-readme/</url>
+      
+        <content type="html"><![CDATA[<h1 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h1><p>創建一個和自己 username 一樣名的 repo，就可以展示在自己的 github public profile 中（如下圖）。</p><p>我的： <a href="https://github.com/ouoholly/ouoholly" target="_blank" rel="noopener">https://github.com/ouoholly/ouoholly</a><br><img alt="my github profile readme 20211003" data-src="/../../img/github-profile-readme_20211003.png" src="/img/loading.svg" class="lazyload"></p><hr><h1 id="github-profile-views-counter"><a href="#github-profile-views-counter" class="headerlink" title="github-profile-views-counter"></a>github-profile-views-counter</h1><p>右上角的 profile views counter 用了這個：<br><a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank" rel="noopener"><img data-src="https://github-readme-stats.vercel.app/api/pin/?username=antonkomarev&repo=github-profile-views-counter" src="/img/loading.svg" class="lazyload"></a></p><hr><h1 id="github-readme-stats"><a href="#github-readme-stats" class="headerlink" title="github-readme-stats"></a>github-readme-stats</h1><p>Hightlights 部份的 repo card 用了這個：<br><a href="https://github.com/anuraghazra/github-readme-stats#github-extra-pins" target="_blank" rel="noopener"><img data-src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" src="/img/loading.svg" class="lazyload"></a></p><hr><h1 id="blog-post-workflow"><a href="#blog-post-workflow" class="headerlink" title="blog-post-workflow"></a>blog-post-workflow</h1><p>My Latest Blog Posts 部份用了這個：<br><a href="https://github.com/gautamkrishnar/blog-post-workflow" target="_blank" rel="noopener"><img data-src="https://github-readme-stats.vercel.app/api/pin/?username=gautamkrishnar&repo=blog-post-workflow" src="/img/loading.svg" class="lazyload"></a></p><p>這條YouTube片很詳細講解了怎樣做，強烈推薦！</p><blockquote><p><a href="https://www.youtube.com/watch?v=ECuqb5Tv9qI" target="_blank" rel="noopener">Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions | codeSTACKr</a></p></blockquote><iframe width="100%" height="515" src="https://www.youtube.com/embed/ECuqb5Tv9qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><hr><h1 id="github-profile-summary-cards"><a href="#github-profile-summary-cards" class="headerlink" title="github-profile-summary-cards"></a>github-profile-summary-cards</h1><p>My Activities 部份（上方）用了這個：<br><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" rel="noopener"><img data-src="https://github-readme-stats.vercel.app/api/pin/?username=vn7n24fzkq&repo=github-profile-summary-cards" src="/img/loading.svg" class="lazyload"></a></p><hr><h1 id="github-readme-activity-graph"><a href="#github-readme-activity-graph" class="headerlink" title="github-readme-activity-graph"></a>github-readme-activity-graph</h1><p>My Activities 部份（下方）用了這個：<br><a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener"><img data-src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph" src="/img/loading.svg" class="lazyload"></a></p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> z_未分類 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>把Excel資料批量填入Photoshop模板 (Image - Variables - Define - Data Sets)</title>
       <link href="/post/Excel-data-to-Photoshop/"/>
       <url>/post/Excel-data-to-Photoshop/</url>
