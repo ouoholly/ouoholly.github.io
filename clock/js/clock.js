@@ -15,9 +15,9 @@ fetch('https://wttr.in/'+returnCitySN["cip"]+'?format="%l+\\+%c+\\+%t+\\+%h"').t
   <div class="clock-row"><span id="card-clock-time" class="card-clock-time"></span></div>
   
   <div class="clock-row">
-  <span class="card-clock-ip">${returnCitySN["cip"]}</span>
+ <!-- <span class="card-clock-ip">${returnCitySN["cip"]}</span> 
 <span class="card-clock-location">${res_list[0]}</span>
-  <span id="card-clock-dackorlight" class="card-clock-dackorlight"></span>
+  <span id="card-clock-dackorlight" class="card-clock-dackorlight"></span> -->
 </div>
 `;
         var week = ['SUN', 'MON', 'TUE', 'WED','THU' ,'FRI', 'SAT'];

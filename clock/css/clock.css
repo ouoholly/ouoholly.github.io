@@ -25,11 +25,12 @@ padding:20px
     flex-wrap: nowrap;
     white-space: nowrap;
 }
-.card-clock-clockdate,.card-clock-ip{
+.card-clock-clockdate, .card-clock-ip{
     text-align: left;
     flex-basis: calc(40% - 5px);
 }
 .card-clock-weather,.card-clock-location{
+    float: right;
     text-align: center;
     flex-basis: calc(30% - 5px);
 }
