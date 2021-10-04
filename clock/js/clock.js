@@ -1,121 +1,66 @@
-    
-	const mykey = {weather:'d96071af7aface07dc03a9919d338c63'};
-	//let locationurl = 'https://ip.seeip.org/geoip';
-	let locationurl = 'https://extreme-ip-lookup.com/json/';
-	let cityname ='';
-	let weatherurl ='';
-	let userip ='';
-    const week = ['SUN', 'MON', 'TUE', 'WED','THU' ,'FRI', 'SAT'];
-	$(function(){
-        $.ajax({
-            //请求方式
-            type:"GET",
-            //文件位置
-            url:locationurl,
-            //返回数据格式为json,也可以是其他格式如
-            dataType: "json",
-            beforeSend:function(XMLHttpRequest){
-                //alert('远程调用开始...');
+function electric_clock_injector_config(){var c=document.getElementsByClassName("sticky_layout")[0];console.log("已挂载electric_clock"),c.insertAdjacentHTML("afterbegin",'<div class="card-widget card-clock"><div class="card-glass"><div class="card-background"><div class="card-content"><div id="hexo_electric_clock"><img id="card-clock-loading" src="/clock/images/weather/loading.gif" style="height: 120px; width: 100%;" data-ll-status="loading" class="entered loading"></div></div></div></div></div>')}document.getElementsByClassName("sticky_layout")[0]&&(location.pathname,1)&&electric_clock_injector_config()
 
-
-            },
-            //请求成功后要执行的函数，拼接html
-            success: function(data){
-	//console.log(data);
-	cityname = data.city;
-	if( typeof data.city =="undefined"){
-	cityname = data.region;
-	};
-    if(typeof data.region =="undefined"){
-	cityname = data.country;	
-	};
-	//userip = data.ip;
-	userip = data.query;
-	weatherurl ='https://api.openweathermap.org/data/2.5/weather/?q=' + cityname + '&units=metric&appid=' + mykey.weather;
-	getweatherdata();
-	
-	
-	
-
-            }
-        });
-    });
-	  
-	function getweatherdata(){
-	$(function(){
-        $.ajax({
-            //请求方式
-            type:"GET",
-            //文件位置
-            url:weatherurl,
-            //返回数据格式为json,也可以是其他格式如
-            dataType: "json",
-            beforeSend:function(XMLHttpRequest){
-                //alert('远程调用开始...');
-
-
-            },
-            //请求成功后要执行的函数，拼接html
-            success: function(data){
-	//console.log(data);
-	 clock.weatherimg = '/clock/images/weather/' +  data.weather[0].icon + '.png';
-        clock.temperature = data.main.temp + "*C";
-        clock.humidity = data.main.humidity + "%";
-		clock.ip =  userip;
-        clock.humidityimg = '/clock/images/weather/hu.png';
-        clock.city = data.name;
-    let timerID = setInterval(updateTime, 1000);
-	updateTime();
-	clock.clockshow  = true;
-	function updateTime() {
-    let cd = new Date();
-    clock.time = zeroPadding(cd.getHours(), 2) + ':' + zeroPadding(cd.getMinutes(), 2) + ':' + zeroPadding(cd.getSeconds(), 2);
-    clock.date = zeroPadding(cd.getFullYear(), 4) + '-' + zeroPadding(cd.getMonth()+1, 2) + '-' + zeroPadding(cd.getDate(), 2) + ' ' + week[cd.getDay()];
-    let hamorpm = cd.getHours();
-    let str;
-    if(hamorpm >12) {
-      hamorpm -= 12;
-      str = " PM";
-    }else{
-      str = " AM";
-    }
-    clock.daylight = str
-  };
-
-  function zeroPadding(num, digit) {
-    let zero = '';
-    for(let i = 0; i < digit; i++) {
-      zero += '0';
-    }
-    return (zero + num).slice(-digit);
-  };
-		updateTime();
-	
-            }
-        });
-    });	
-	};
-	
-	
-
-  const clock = new Vue({
-    el: '#clock',
-    data: {
-		ip: '',
-      time: '',
-      weatherimg: '',
-      temperature: '',
-      humidityimg: '',
-      humidity: '',
-      usaqi: '',
-      city: '',
-      date: '',
-      daylight: '',
-	  clockshow:'false'
-    },
-	
-  });
-
-
+console.log(returnCitySN["cip"])
+fetch('https://wttr.in/'+returnCitySN["cip"]+'?format="%l+\\+%c+\\+%t+\\+%h"').then(res=>res.text()).then(
+    data => {
+        var res_text = data.replace(/"/g,'').replace(/\+/g,'').replace(/,/g,'\\').replace(/ /g,'').replace(/°C/g,'');
+        res_list = res_text.split('\\');
+        var clock_box = document.getElementById('hexo_electric_clock');
+        clock_box_html = `  
+  <div class="clock-row">
+<span id="card-clock-clockdate" class="card-clock-clockdate"></span>
+<span class="card-clock-weather">${res_list[2]} ${res_list[3]} *C</span>
+<span class="card-clock-humidity">💧 ${res_list[4]}</span>
+</div>
+  <div class="clock-row"><span id="card-clock-time" class="card-clock-time"></span></div>
   
+  <div class="clock-row">
+  <span class="card-clock-ip">${returnCitySN["cip"]}</span>
+<span class="card-clock-location">${res_list[0]}</span>
+  <span id="card-clock-dackorlight" class="card-clock-dackorlight"></span>
+</div>
+`;
+        var week = ['SUN', 'MON', 'TUE', 'WED','THU' ,'FRI', 'SAT'];
+        var card_clock_loading_dom = document.getElementById('card-clock-loading');
+        card_clock_loading_dom.innerHTML='';
+        clock_box.innerHTML= clock_box_html;
+        function updateTime() {
+            var cd = new Date();
+            var card_clock_time = zeroPadding(cd.getHours(), 2) + ':' + zeroPadding(cd.getMinutes(), 2) + ':' + zeroPadding(cd.getSeconds(), 2);
+            var card_clock_date = zeroPadding(cd.getFullYear(), 4) + '-' + zeroPadding(cd.getMonth()+1, 2) + '-' + zeroPadding(cd.getDate(), 2) + ' '+ week[cd.getDay()];
+            var card_clock_dackorlight = cd.getHours();
+            var card_clock_dackorlight_str;
+            if(card_clock_dackorlight >12) {
+                card_clock_dackorlight -= 12;
+                card_clock_dackorlight_str = " PM";
+            }else{
+                card_clock_dackorlight_str = " AM";
+            }
+            if(document.getElementById('card-clock-time')){
+            var card_clock_time_dom = document.getElementById('card-clock-time');
+            var card_clock_date_dom = document.getElementById('card-clock-clockdate');
+            var card_clock_dackorlight_dom = document.getElementById('card-clock-dackorlight');
+            card_clock_time_dom.innerHTML= card_clock_time;
+            card_clock_date_dom.innerHTML= card_clock_date;
+            card_clock_dackorlight_dom.innerHTML= card_clock_dackorlight_str
+                }
+        }
 
+        function zeroPadding(num, digit) {
+            var zero = '';
+            for(var i = 0; i < digit; i++) {
+                zero += '0';
+            }
+            return (zero + num).slice(-digit);
+        }
+        
+        
+           var timerID = setInterval(updateTime, 1000);
+           updateTime();
+           
+       
+
+        console.log(res_list)
+
+    }
+)
