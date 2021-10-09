@@ -4310,6 +4310,12 @@ img {
 [data-theme='dark'] ::-webkit-scrollbar-thumb {
   background: #383838;
 }
+[data-theme='dark'] #card-clock-time,
+[data-theme='dark'] #card-clock-clockdate,
+[data-theme='dark'] .card-clock-weather,
+[data-theme='dark'] .card-clock-humidity {
+  color: rgba(245,245,245,0.6);
+}
 [data-theme='dark'] #web_bg[data-type=color],
 [data-theme='dark'] #footer[data-type=color] {
   background: #262626;
