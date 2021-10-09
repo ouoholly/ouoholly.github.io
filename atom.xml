@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ouoholly.github.io/"/>
-  <updated>2021-10-04T16:12:19.640Z</updated>
+  <updated>2021-10-09T08:40:05.647Z</updated>
   <id>https://ouoholly.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【Python】Differences between return and print (why use print in function will output None?)</title>
+    <link href="https://ouoholly.github.io/post/python-diff-print-return/"/>
+    <id>https://ouoholly.github.io/post/python-diff-print-return/</id>
+    <published>2021-10-09T08:05:00.000Z</published>
+    <updated>2021-10-09T08:40:05.647Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Why use &lt;code&gt;print&lt;/code&gt; in python function will sometimes output &lt;code&gt;None&lt;/code&gt;?&lt;/li&gt;
+&lt;li&gt;What are the differences between
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo Butterfly 主題：添加天氣時鐘 (butterfly-clock / hexo-electric-clock)</title>
@@ -308,39 +337,6 @@
       <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
     
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【Python 爬蟲】抓取 Google 搜尋結果的連結</title>
-    <link href="https://ouoholly.github.io/post/python-web-crawl-google-search-result-urls/"/>
-    <id>https://ouoholly.github.io/post/python-web-crawl-google-search-result-urls/</id>
-    <published>2020-08-24T12:35:00.000Z</published>
-    <updated>2020-08-24T14:39:16.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;hr&gt;
-&lt;p&gt;記錄一下批量抓取 Google 搜尋結果裡的連結的方法。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;如果還沒有安裝以下，要先下載安裝：&lt;/p&gt;
-&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div class=&quot;code_lang&quot;&gt;cmd&lt;/div&gt;&lt;div
-        
-      
-    
-    </summary>
-    
-    
-      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
-    
-    
-      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
-    
-      <category term="爬蟲" scheme="https://ouoholly.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
     
   </entry>
   
