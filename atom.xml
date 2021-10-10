@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ouoholly.github.io/"/>
-  <updated>2021-10-09T08:40:05.647Z</updated>
+  <updated>2021-10-10T06:41:02.973Z</updated>
   <id>https://ouoholly.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【筆記】Excel formula notes</title>
+    <link href="https://ouoholly.github.io/post/Excel-notes/"/>
+    <id>https://ouoholly.github.io/post/Excel-notes/</id>
+    <published>2021-10-10T12:02:00.000Z</published>
+    <updated>2021-10-10T06:41:02.973Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Shortcut&quot;&gt;&lt;a href=&quot;#Shortcut&quot; class=&quot;headerlink&quot; title=&quot;Shortcut&quot;&gt;&lt;/a&gt;Shortcut&lt;/h1&gt;&lt;h2 id=&quot;Auto-add-to-all&quot;&gt;&lt;a href=&quot;#Auto-add-to-all&quot; class=&quot;headerlink&quot; title=&quot;Auto add $ to all&quot;&gt;&lt;/a&gt;Auto add $ to all&lt;/h2&gt;&lt;p&gt;press &lt;code&gt;F4&lt;/code&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="Excel" scheme="https://ouoholly.github.io/tags/Excel/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【Python】Differences between return and print (why use print in function will output None?)</title>
     <link href="https://ouoholly.github.io/post/python-diff-print-return/"/>
     <id>https://ouoholly.github.io/post/python-diff-print-return/</id>
     <published>2021-10-09T08:05:00.000Z</published>
-    <updated>2021-10-09T08:40:05.647Z</updated>
+    <updated>2021-10-09T11:35:48.827Z</updated>
     
     <summary type="html">
     
@@ -72,9 +100,9 @@
     
       <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
     
-      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
     
   </entry>
   
@@ -105,9 +133,9 @@
     
       <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
     
-      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
     
   </entry>
   
@@ -300,43 +328,9 @@
     
       <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
     
-      <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
       <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
     
-  </entry>
-  
-  <entry>
-    <title>在 Hexo Butterfly 主題加上 LikeCoin Button</title>
-    <link href="https://ouoholly.github.io/post/add-likecoin-btn-to-hexo-butterfly/"/>
-    <id>https://ouoholly.github.io/post/add-likecoin-btn-to-hexo-butterfly/</id>
-    <published>2020-09-26T15:59:00.000Z</published>
-    <updated>2021-10-04T14:56:30.907Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img alt=&quot;LikeCoin on Hexo Butterfly theme preivew&quot; data-src=&quot;https://i.imgur.com/QiD37CQ.png&quot; src=&quot;/img/loading.svg&quot; class=&quot;lazyload&quot;&gt;&lt;/p&gt;
-&lt;p&gt;網上找到的 LikeCoin Hexo教學都是用 ejs ，但 Butterfly 主題是用 pug ，所以這裡出一篇文章以 Hexo Butterfly 主題為例，分享如何在 pug 中添加
-        
-      
-    
-    </summary>
-    
-    
-      <category term="架站記錄" scheme="https://ouoholly.github.io/categories/%E6%9E%B6%E7%AB%99%E8%A8%98%E9%8C%84/"/>
-    
-      <category term="butterfly魔改" scheme="https://ouoholly.github.io/categories/%E6%9E%B6%E7%AB%99%E8%A8%98%E9%8C%84/butterfly%E9%AD%94%E6%94%B9/"/>
-    
-    
-      <category term="Hexo" scheme="https://ouoholly.github.io/tags/Hexo/"/>
-    
       <category term="Hexo-Theme-Butterfly" scheme="https://ouoholly.github.io/tags/Hexo-Theme-Butterfly/"/>
-    
-      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
     
   </entry>
   
