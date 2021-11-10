@@ -4,11 +4,36 @@
   
     
     <entry>
-      <title>Jupyter shortcut</title>
+      <title>利用 nvm 在 mac 快速在多個 Node 版本之間切換</title>
+      <link href="/post/switch-node-version-mac/"/>
+      <url>/post/switch-node-version-mac/</url>
+      
+        <content type="html"><![CDATA[<h1 id="nvm-Node-Version-Manager"><a href="#nvm-Node-Version-Manager" class="headerlink" title="nvm (Node Version Manager)"></a>nvm (Node Version Manager)</h1><p><code>nvm</code> allows you to quickly install and use different versions of node via the command line.<br><a href="https://github.com/nvm-sh/nvm" target="_blank" rel="noopener">https://github.com/nvm-sh/nvm</a></p><hr><h1 id="Install-nvm"><a href="#Install-nvm" class="headerlink" title="Install nvm"></a>Install nvm</h1><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash</span><br></pre></td></tr></table></figure></div><h2 id="一開始我安裝失敗，出現了跟這個一樣的狀況-HEAD-detached-at-FETCH-HEAD-2486，最後跟這位-bestiptx99-說的方法成功了！只要按-q-鍵就可以了：「Just-type-in-q-and-you’ll-be-able-to-come-out-of-this-non-interactable-page-and-the-rest-of-the-installation-gets-done-」"><a href="#一開始我安裝失敗，出現了跟這個一樣的狀況-HEAD-detached-at-FETCH-HEAD-2486，最後跟這位-bestiptx99-說的方法成功了！只要按-q-鍵就可以了：「Just-type-in-q-and-you’ll-be-able-to-come-out-of-this-non-interactable-page-and-the-rest-of-the-installation-gets-done-」" class="headerlink" title="一開始我安裝失敗，出現了跟這個一樣的狀況 HEAD detached at FETCH_HEAD #2486，最後跟這位 bestiptx99 說的方法成功了！只要按 q 鍵就可以了：「Just type in q and you’ll be able to come out of this non-interactable page and the rest of the installation gets done.」"></a>一開始我安裝失敗，出現了跟這個一樣的狀況 <a href="https://github.com/nvm-sh/nvm/issues/2486" target="_blank" rel="noopener">HEAD detached at FETCH_HEAD #2486</a>，最後跟這位 bestiptx99 說的方法成功了！只要按 <code>q</code> 鍵就可以了：「Just type in q and you’ll be able to come out of this non-interactable page and the rest of the installation gets done.」</h2><h1 id="Install-node-js"><a href="#Install-node-js" class="headerlink" title="Install node.js"></a>Install node.js</h1><h2 id="Install-the-latest-version-of-node-js"><a href="#Install-the-latest-version-of-node-js" class="headerlink" title="Install the latest version of node.js"></a>Install the latest version of node.js</h2><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm install node <span class="comment"># "node" is an alias for the latest version</span></span><br></pre></td></tr></table></figure></div><h2 id="Install-a-particular-version-of-node-js"><a href="#Install-a-particular-version-of-node-js" class="headerlink" title="Install a particular version of node.js"></a>Install a particular version of node.js</h2><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm install 12.18.0</span><br></pre></td></tr></table></figure></div><hr><h1 id="Set-the-default-node-version"><a href="#Set-the-default-node-version" class="headerlink" title="Set the default node version"></a>Set the default node version</h1><h2 id="Set-the-latest-version-as-default"><a href="#Set-the-latest-version-as-default" class="headerlink" title="Set the latest version as default"></a>Set the latest version as default</h2><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm <span class="built_in">alias</span> default stable</span><br></pre></td></tr></table></figure></div><h2 id="Set-a-specific-version-as-default"><a href="#Set-a-specific-version-as-default" class="headerlink" title="Set a specific version as default"></a>Set a specific version as default</h2><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm <span class="built_in">alias</span> default 12</span><br></pre></td></tr></table></figure></div><hr><h1 id="Quickly-select-node-versioin"><a href="#Quickly-select-node-versioin" class="headerlink" title="Quickly select node versioin"></a>Quickly select node versioin</h1><ol><li><p>List out all the installed node version</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm ls</span><br></pre></td></tr></table></figure></div></li><li><p>Select your desired node version</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm use 12</span><br></pre></td></tr></table></figure></div></li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">nvm use default</span><br></pre></td></tr></table></figure></div><p><img alt="switch between multiple node.js version" data-src="https://i.imgur.com/GYIUxWW.png" src="/img/loading.svg" class="lazyload"></p><hr><h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ul><li><a href="https://zhuanlan.zhihu.com/p/394276654" target="_blank" rel="noopener">在 MacOS 上如何管理多个 Node 版本 - 知乎 rainyjune</a></li><li><a href="https://chamikakasun.medium.com/how-to-manage-multiple-node-versions-in-macos-2021-guide-5065f32cb63b" target="_blank" rel="noopener">How to Manage Multiple Node Versions in MacOS. (2021 Guide) | by Chamika Kasun | Medium</a></li></ul><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 筆記 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> node.js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Jupyter shortcuts</title>
       <link href="/post/jupyter-shortcut/"/>
       <url>/post/jupyter-shortcut/</url>
       
-        <content type="html"><![CDATA[<p><code>command</code> <code>/</code> comment multiple lines</p><p><code>esc</code> go to command mode (left you can see from green to blue), then can use the following shortcuts</p><p><code>dd</code> delete current cell</p><p><code>a</code> insert new cell above</p><p><code>b</code> insert new cell below</p><p><code>Ctrl</code> <code>Enter</code> Run the current cell</p><hr>]]></content>
+        <content type="html"><![CDATA[<h1 id="Jupyter-shortcuts"><a href="#Jupyter-shortcuts" class="headerlink" title="Jupyter shortcuts"></a>Jupyter shortcuts</h1><p><code>command</code> <code>/</code> comment multiple lines</p><p><code>esc</code> go to command mode (left you can see from green to blue), then can use the following shortcuts</p><p><code>dd</code> delete current cell</p><p><code>a</code> insert new cell above</p><p><code>b</code> insert new cell below</p><p><code>Ctrl</code> <code>Enter</code> Run the current cell</p><hr>]]></content>
       
       
       <categories>
@@ -58,13 +83,13 @@
       
         <tags>
             
-            <tag> html </tag>
-            
-            <tag> python </tag>
-            
             <tag> Google-Excel </tag>
             
             <tag> json </tag>
+            
+            <tag> html </tag>
+            
+            <tag> python </tag>
             
             <tag> Excel </tag>
             
@@ -336,11 +361,11 @@
             
             <tag> Hexo </tag>
             
-            <tag> Github </tag>
-            
             <tag> 架站 </tag>
             
             <tag> 筆記 </tag>
+            
+            <tag> Github </tag>
             
         </tags>
       
@@ -716,13 +741,13 @@
       
         <tags>
             
-            <tag> html </tag>
-            
             <tag> Google-Excel </tag>
             
             <tag> json </tag>
             
             <tag> javascript </tag>
+            
+            <tag> html </tag>
             
         </tags>
       
@@ -861,9 +886,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> Github </tag>
-            
             <tag> 筆記 </tag>
+            
+            <tag> Github </tag>
             
         </tags>
       
@@ -892,9 +917,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> Github </tag>
-            
             <tag> 筆記 </tag>
+            
+            <tag> Github </tag>
             
         </tags>
       
@@ -987,11 +1012,11 @@
             
             <tag> Hexo-Theme-Butterfly </tag>
             
-            <tag> Github </tag>
-            
             <tag> 架站 </tag>
             
             <tag> 筆記 </tag>
+            
+            <tag> Github </tag>
             
         </tags>
       
