@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>RGB to CMYK in Photoshop in batch</title>
+      <link href="/post/rgb-to-cmyk-in-Photoshop-in-batch/"/>
+      <url>/post/rgb-to-cmyk-in-Photoshop-in-batch/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-Show-the-“Action”-panel"><a href="#1-Show-the-“Action”-panel" class="headerlink" title="1. Show the “Action” panel"></a>1. Show the “Action” panel</h1><p><img alt="1 show Action" data-src="https://i.imgur.com/cJiBpPp.png" src="/img/loading.svg" class="lazyload"></p><h1 id="2-Add-new-action-start-recording"><a href="#2-Add-new-action-start-recording" class="headerlink" title="2. Add new action, start recording"></a>2. Add new action, start recording</h1><p><img alt="2 add new action" data-src="https://i.imgur.com/snELYK2.png" src="/img/loading.svg" class="lazyload"></p><h1 id="3-Change-the-color-mode-to-CMYK"><a href="#3-Change-the-color-mode-to-CMYK" class="headerlink" title="3. Change the color mode to CMYK"></a>3. Change the color mode to CMYK</h1><p><img alt="3 change color mode" data-src="https://i.imgur.com/MJD0Hzn.png" src="/img/loading.svg" class="lazyload"></p><h1 id="4-Click-the-stop-button-to-stop-the-recording"><a href="#4-Click-the-stop-button-to-stop-the-recording" class="headerlink" title="4. Click the stop button to stop the recording"></a>4. Click the stop button to stop the recording</h1><p><img alt="4 stop" data-src="https://i.imgur.com/TkZmzmO.png" src="/img/loading.svg" class="lazyload"></p><h1 id="5-Batch-to-change-the-images"><a href="#5-Batch-to-change-the-images" class="headerlink" title="5. Batch to change the images"></a>5. Batch to change the images</h1><p><img alt="5 batch" data-src="https://i.imgur.com/YN6vZJL.png" src="/img/loading.svg" class="lazyload"></p><h1 id="6-Select-the-folder-where-the-images-located"><a href="#6-Select-the-folder-where-the-images-located" class="headerlink" title="6. Select the folder where the images located"></a>6. Select the folder where the images located</h1><p><img alt="6 run" data-src="https://i.imgur.com/Fnvg0aR.png" src="/img/loading.svg" class="lazyload"></p><hr><h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ul><li><a href="https://unitedtraining.com/resources/blog/convert-images-from-rgb-to-cmyk-in-photoshop" target="_blank" rel="noopener">Convert Images from RGB to CMYK in Photoshop | Taylor Karl</a></li></ul><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 辦公小技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Photoshop </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在 Mac 運行 Windows exe 程式</title>
       <link href="/post/execute-windows-exe-on-mac-using-wine/"/>
       <url>/post/execute-windows-exe-on-mac-using-wine/</url>
@@ -72,6 +97,8 @@
       
         <tags>
             
+            <tag> Mac </tag>
+            
             <tag> node.js </tag>
             
         </tags>
@@ -135,13 +162,13 @@
       
         <tags>
             
-            <tag> html </tag>
-            
-            <tag> python </tag>
-            
             <tag> Google-Excel </tag>
             
             <tag> json </tag>
+            
+            <tag> html </tag>
+            
+            <tag> python </tag>
             
             <tag> Excel </tag>
             
@@ -190,6 +217,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> Mac </tag>
+            
+        </tags>
       
     </entry>
     
@@ -266,9 +299,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> 架站 </tag>
-            
             <tag> Hexo-Theme-Butterfly </tag>
+            
+            <tag> 架站 </tag>
             
         </tags>
       
@@ -297,9 +330,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> 架站 </tag>
-            
             <tag> Hexo-Theme-Butterfly </tag>
+            
+            <tag> 架站 </tag>
             
         </tags>
       
@@ -415,9 +448,11 @@
             
             <tag> Github </tag>
             
+            <tag> 架站 </tag>
+            
             <tag> 筆記 </tag>
             
-            <tag> 架站 </tag>
+            <tag> Mac </tag>
             
         </tags>
       
@@ -473,9 +508,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> 架站 </tag>
-            
             <tag> Hexo-Theme-Butterfly </tag>
+            
+            <tag> 架站 </tag>
             
         </tags>
       
@@ -504,9 +539,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> 架站 </tag>
-            
             <tag> Hexo-Theme-Butterfly </tag>
+            
+            <tag> 架站 </tag>
             
         </tags>
       
@@ -766,9 +801,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> 架站 </tag>
-            
             <tag> Hexo-Theme-Butterfly </tag>
+            
+            <tag> 架站 </tag>
             
         </tags>
       
@@ -793,13 +828,13 @@
       
         <tags>
             
-            <tag> html </tag>
-            
             <tag> Google-Excel </tag>
             
             <tag> json </tag>
             
             <tag> javascript </tag>
+            
+            <tag> html </tag>
             
         </tags>
       
@@ -1029,11 +1064,11 @@
             
             <tag> Hexo </tag>
             
-            <tag> 筆記 </tag>
+            <tag> Hexo-Theme-Butterfly </tag>
             
             <tag> 架站 </tag>
             
-            <tag> Hexo-Theme-Butterfly </tag>
+            <tag> 筆記 </tag>
             
         </tags>
       
@@ -1062,13 +1097,13 @@
             
             <tag> Hexo </tag>
             
-            <tag> Github </tag>
+            <tag> Hexo-Theme-Butterfly </tag>
             
-            <tag> 筆記 </tag>
+            <tag> Github </tag>
             
             <tag> 架站 </tag>
             
-            <tag> Hexo-Theme-Butterfly </tag>
+            <tag> 筆記 </tag>
             
         </tags>
       
