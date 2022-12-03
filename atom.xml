@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ouoholly.github.io/"/>
-  <updated>2022-01-11T12:33:07.154Z</updated>
+  <updated>2022-09-19T10:35:00.610Z</updated>
   <id>https://ouoholly.github.io/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Build a documentation site quickly using Vitepress</title>
+    <link href="https://ouoholly.github.io/post/build-documentation-site-quickly-using-vitepress/"/>
+    <id>https://ouoholly.github.io/post/build-documentation-site-quickly-using-vitepress/</id>
+    <published>2022-09-10T12:30:00.000Z</published>
+    <updated>2022-09-19T10:35:00.610Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;/p&gt;
+&lt;p&gt;#&lt;/p&gt;
+&lt;p&gt;#&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;Reference&quot;&gt;&lt;a href=&quot;#Reference&quot; class=&quot;headerlink&quot; title=&quot;Reference&quot;&gt;&lt;/a&gt;Reference&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://vitepress.docschina.org/guide/deploy.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="架站記錄" scheme="https://ouoholly.github.io/categories/%E6%9E%B6%E7%AB%99%E8%A8%98%E9%8C%84/"/>
+    
+    
+      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+      <category term="vitepress" scheme="https://ouoholly.github.io/tags/vitepress/"/>
+    
+  </entry>
   
   <entry>
     <title>RGB to CMYK in Photoshop in batch</title>
@@ -259,34 +294,6 @@
     
     
       <category term="Mac" scheme="https://ouoholly.github.io/tags/Mac/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【筆記】Excel formula notes</title>
-    <link href="https://ouoholly.github.io/post/Excel-notes/"/>
-    <id>https://ouoholly.github.io/post/Excel-notes/</id>
-    <published>2021-10-10T12:02:00.000Z</published>
-    <updated>2021-10-10T06:41:02.973Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Shortcut&quot;&gt;&lt;a href=&quot;#Shortcut&quot; class=&quot;headerlink&quot; title=&quot;Shortcut&quot;&gt;&lt;/a&gt;Shortcut&lt;/h1&gt;&lt;h2 id=&quot;Auto-add-to-all&quot;&gt;&lt;a href=&quot;#Auto-add-to-all&quot; class=&quot;headerlink&quot; title=&quot;Auto add $ to all&quot;&gt;&lt;/a&gt;Auto add $ to all&lt;/h2&gt;&lt;p&gt;press &lt;code&gt;F4&lt;/code&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
-    
-      <category term="Excel" scheme="https://ouoholly.github.io/tags/Excel/"/>
     
   </entry>
   
