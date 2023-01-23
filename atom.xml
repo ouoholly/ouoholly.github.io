@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ouoholly.github.io/"/>
-  <updated>2022-01-11T12:33:07.154Z</updated>
+  <updated>2023-01-23T09:12:09.766Z</updated>
   <id>https://ouoholly.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Run php locally</title>
+    <link href="https://ouoholly.github.io/post/Run-php-locally/"/>
+    <id>https://ouoholly.github.io/post/Run-php-locally/</id>
+    <published>2023-01-23T09:07:00.000Z</published>
+    <updated>2023-01-23T09:12:09.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;How-to-run-php-locally&quot;&gt;&lt;a href=&quot;#How-to-run-php-locally&quot; class=&quot;headerlink&quot; title=&quot;How to run php locally&quot;&gt;&lt;/a&gt;How to run php locally&lt;/h1&gt;&lt;p&gt;In terminal:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;cd to project folder&lt;/p&gt;
+&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="php" scheme="https://ouoholly.github.io/tags/php/"/>
+    
+  </entry>
   
   <entry>
     <title>RGB to CMYK in Photoshop in batch</title>
@@ -259,34 +289,6 @@
     
     
       <category term="Mac" scheme="https://ouoholly.github.io/tags/Mac/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【筆記】Excel formula notes</title>
-    <link href="https://ouoholly.github.io/post/Excel-notes/"/>
-    <id>https://ouoholly.github.io/post/Excel-notes/</id>
-    <published>2021-10-10T12:02:00.000Z</published>
-    <updated>2021-10-10T06:41:02.973Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Shortcut&quot;&gt;&lt;a href=&quot;#Shortcut&quot; class=&quot;headerlink&quot; title=&quot;Shortcut&quot;&gt;&lt;/a&gt;Shortcut&lt;/h1&gt;&lt;h2 id=&quot;Auto-add-to-all&quot;&gt;&lt;a href=&quot;#Auto-add-to-all&quot; class=&quot;headerlink&quot; title=&quot;Auto add $ to all&quot;&gt;&lt;/a&gt;Auto add $ to all&lt;/h2&gt;&lt;p&gt;press &lt;code&gt;F4&lt;/code&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
-    
-      <category term="Excel" scheme="https://ouoholly.github.io/tags/Excel/"/>
     
   </entry>
   

@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Run php locally</title>
+      <link href="/post/Run-php-locally/"/>
+      <url>/post/Run-php-locally/</url>
+      
+        <content type="html"><![CDATA[<h1 id="How-to-run-php-locally"><a href="#How-to-run-php-locally" class="headerlink" title="How to run php locally"></a>How to run php locally</h1><p>In terminal:</p><ol><li><p>cd to project folder</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> folderPath</span><br></pre></td></tr></table></figure></div></li><li><p>command below:</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">zsh</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight zsh"><table><tr><td class="code"><pre><span class="line">php -S 127.0.0.1:8000</span><br></pre></td></tr></table></figure></div></li><li><p>Go to <code>127.0.0.1:8000</code></p></li></ol><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 筆記 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>RGB to CMYK in Photoshop in batch</title>
       <link href="/post/rgb-to-cmyk-in-Photoshop-in-batch/"/>
       <url>/post/rgb-to-cmyk-in-Photoshop-in-batch/</url>
