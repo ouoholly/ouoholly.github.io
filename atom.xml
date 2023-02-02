@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的倉庫 | ouoholly</title>
+  <icon>https://ouoholly.github.io/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ouoholly.github.io/"/>
+  <updated>2023-01-30T12:25:33.341Z</updated>
+  <id>https://ouoholly.github.io/</id>
+  
+  <author>
+    <name>ouoholly</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Protect file directory using .htaccess</title>
+    <link href="https://ouoholly.github.io/post/protect-file-directory-using-htaccess/"/>
+    <id>https://ouoholly.github.io/post/protect-file-directory-using-htaccess/</id>
+    <published>2023-01-30T12:21:00.000Z</published>
+    <updated>2023-01-30T12:25:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;To prevent file directory be accessed by others, input the line below in &lt;code&gt;.htaccess&lt;/code&gt; file.&lt;/p&gt;
+&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="編寫網頁" scheme="https://ouoholly.github.io/categories/%E7%B7%A8%E5%AF%AB%E7%B6%B2%E9%A0%81/"/>
+    
+    
+      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Run php locally</title>
+    <link href="https://ouoholly.github.io/post/Run-php-locally/"/>
+    <id>https://ouoholly.github.io/post/Run-php-locally/</id>
+    <published>2023-01-23T09:07:00.000Z</published>
+    <updated>2023-01-23T09:12:09.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;How-to-run-php-locally&quot;&gt;&lt;a href=&quot;#How-to-run-php-locally&quot; class=&quot;headerlink&quot; title=&quot;How to run php locally&quot;&gt;&lt;/a&gt;How to run php locally&lt;/h1&gt;&lt;p&gt;In terminal:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;cd to project folder&lt;/p&gt;
+&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="php" scheme="https://ouoholly.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RGB to CMYK in Photoshop in batch</title>
+    <link href="https://ouoholly.github.io/post/rgb-to-cmyk-in-Photoshop-in-batch/"/>
+    <id>https://ouoholly.github.io/post/rgb-to-cmyk-in-Photoshop-in-batch/</id>
+    <published>2022-01-11T12:30:00.000Z</published>
+    <updated>2022-01-11T12:33:07.154Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-Show-the-“Action”-panel&quot;&gt;&lt;a href=&quot;#1-Show-the-“Action”-panel&quot; class=&quot;headerlink&quot; title=&quot;1. Show the “Action” panel&quot;&gt;&lt;/a&gt;1. Show the “Action” panel&lt;/h1&gt;&lt;p&gt;&lt;img alt=&quot;1 show Action&quot; data-src=&quot;https://i.imgur.com/cJiBpPp.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="Photoshop" scheme="https://ouoholly.github.io/tags/Photoshop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Mac 運行 Windows exe 程式</title>
+    <link href="https://ouoholly.github.io/post/execute-windows-exe-on-mac-using-wine/"/>
+    <id>https://ouoholly.github.io/post/execute-windows-exe-on-mac-using-wine/</id>
+    <published>2021-12-31T14:30:00.000Z</published>
+    <updated>2021-12-31T14:34:30.610Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;What-is-Wine&quot;&gt;&lt;a href=&quot;#What-is-Wine&quot; class=&quot;headerlink&quot; title=&quot;What is Wine?&quot;&gt;&lt;/a&gt;What is Wine?&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.winehq.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.winehq.org/&lt;/a&gt;&lt;br&gt;Wine (originally an acronym
+        
+      
+    
+    </summary>
+    
+    
+      <category term="z_未分類" scheme="https://ouoholly.github.io/categories/z-%E6%9C%AA%E5%88%86%E9%A1%9E/"/>
+    
+    
+      <category term="Mac" scheme="https://ouoholly.github.io/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【個人用途記錄2】Python 爬蟲 - 抓取及解析 HTML 網頁資料</title>
+    <link href="https://ouoholly.github.io/post/python-web-crawl-shhh2/"/>
+    <id>https://ouoholly.github.io/post/python-web-crawl-shhh2/</id>
+    <published>2021-12-30T12:30:00.000Z</published>
+    <updated>2021-12-30T13:24:24.485Z</updated>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted, password is required to continue reading.
+    
+    </summary>
+    
+    
+      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+      <category term="爬蟲" scheme="https://ouoholly.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 nvm 在 mac 快速在多個 Node 版本之間切換</title>
+    <link href="https://ouoholly.github.io/post/switch-node-version-mac/"/>
+    <id>https://ouoholly.github.io/post/switch-node-version-mac/</id>
+    <published>2021-11-10T16:30:00.000Z</published>
+    <updated>2021-12-31T14:39:59.662Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;nvm-Node-Version-Manager&quot;&gt;&lt;a href=&quot;#nvm-Node-Version-Manager&quot; class=&quot;headerlink&quot; title=&quot;nvm (Node Version Manager)&quot;&gt;&lt;/a&gt;nvm (Node Version Manager)&lt;/h1&gt;&lt;p&gt;&lt;code&gt;nvm&lt;/code&gt; allows you to quickly install and use different versions of node via
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="Mac" scheme="https://ouoholly.github.io/tags/Mac/"/>
+    
+      <category term="node.js" scheme="https://ouoholly.github.io/tags/node-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jupyter shortcuts</title>
+    <link href="https://ouoholly.github.io/post/jupyter-shortcut/"/>
+    <id>https://ouoholly.github.io/post/jupyter-shortcut/</id>
+    <published>2021-11-01T13:51:00.000Z</published>
+    <updated>2021-11-01T13:53:52.171Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Jupyter-shortcuts&quot;&gt;&lt;a href=&quot;#Jupyter-shortcuts&quot; class=&quot;headerlink&quot; title=&quot;Jupyter shortcuts&quot;&gt;&lt;/a&gt;Jupyter shortcuts&lt;/h1&gt;&lt;p&gt;&lt;code&gt;command&lt;/code&gt; &lt;code&gt;/&lt;/code&gt; comment multiple lines&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;esc&lt;/code&gt; go to command mode (left you can see
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Array 和 List 的分別</title>
+    <link href="https://ouoholly.github.io/post/diff-of-array-and-list/"/>
+    <id>https://ouoholly.github.io/post/diff-of-array-and-list/</id>
+    <published>2021-10-30T11:58:00.000Z</published>
+    <updated>2021-10-30T11:16:03.154Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;For my own quick reference only.&lt;br&gt;這個 post 的內容全部引用自這篇文章，感謝：&lt;a href=&quot;http://sharecoder.blogspot.com/2012/10/arraylist.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;菜鳥工程師的紀錄: Array與List&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【workflow record】Display IMDb movies as self-made catalog</title>
+    <link href="https://ouoholly.github.io/post/IMDb-movie-catalog-json-html/"/>
+    <id>https://ouoholly.github.io/post/IMDb-movie-catalog-json-html/</id>
+    <published>2021-10-28T17:10:00.000Z</published>
+    <updated>2022-08-04T12:03:23.768Z</updated>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted, password is required to continue reading.
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="Google-Excel" scheme="https://ouoholly.github.io/tags/Google-Excel/"/>
+    
+      <category term="json" scheme="https://ouoholly.github.io/tags/json/"/>
+    
+      <category term="html" scheme="https://ouoholly.github.io/tags/html/"/>
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+      <category term="Excel" scheme="https://ouoholly.github.io/tags/Excel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Python - IMDbPY】Output the cover URLs from a list of IMDb movie IDs</title>
+    <link href="https://ouoholly.github.io/post/python-IMDb-cover-url/"/>
+    <id>https://ouoholly.github.io/post/python-IMDb-cover-url/</id>
+    <published>2021-10-28T16:58:00.000Z</published>
+    <updated>2021-10-28T17:01:21.520Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Used-IMDbPY&quot;&gt;&lt;a href=&quot;#Used-IMDbPY&quot; class=&quot;headerlink&quot; title=&quot;Used IMDbPY&quot;&gt;&lt;/a&gt;Used &lt;a href=&quot;https://imdbpy.readthedocs.io/en/latest/usage/quickstart.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;IMDbPY&lt;/a&gt;&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Reference: &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+  </entry>
+  
+</feed>
