@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的倉庫 | ouoholly</title>
+  <icon>https://ouoholly.github.io/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ouoholly.github.io/"/>
+  <updated>2023-11-12T12:27:03.346Z</updated>
+  <id>https://ouoholly.github.io/</id>
+  
+  <author>
+    <name>ouoholly</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git command 常用指令</title>
+    <link href="https://ouoholly.github.io/post/git-command-notes/"/>
+    <id>https://ouoholly.github.io/post/git-command-notes/</id>
+    <published>2023-11-12T12:27:00.000Z</published>
+    <updated>2023-11-12T12:27:03.346Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Generate-SSH-key&quot;&gt;&lt;a href=&quot;#Generate-SSH-key&quot; class=&quot;headerlink&quot; title=&quot;Generate SSH key&quot;&gt;&lt;/a&gt;Generate SSH key&lt;/h1&gt;&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/tags/%E7%AD%86%E8%A8%98/"/>
+    
+      <category term="git" scheme="https://ouoholly.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不錯的免費 Wordpress plugins &amp; 備份 WordPress database</title>
+    <link href="https://ouoholly.github.io/post/awesome-wordpress-plugins/"/>
+    <id>https://ouoholly.github.io/post/awesome-wordpress-plugins/</id>
+    <published>2023-11-11T15:05:00.000Z</published>
+    <updated>2023-11-12T11:50:57.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Smooth-Back-To-Top-Button&quot;&gt;&lt;a href=&quot;#Smooth-Back-To-Top-Button&quot; class=&quot;headerlink&quot; title=&quot;Smooth Back To Top Button&quot;&gt;&lt;/a&gt;Smooth Back To Top Button&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://wordpress.org/plugins/smooth-back-to-top-button/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="編寫網頁" scheme="https://ouoholly.github.io/categories/%E7%B7%A8%E5%AF%AB%E7%B6%B2%E9%A0%81/"/>
+    
+    
+      <category term="WordPress" scheme="https://ouoholly.github.io/tags/WordPress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker command 常用指令</title>
+    <link href="https://ouoholly.github.io/post/docker-command-notes/"/>
+    <id>https://ouoholly.github.io/post/docker-command-notes/</id>
+    <published>2023-07-31T15:05:00.000Z</published>
+    <updated>2023-11-12T12:04:13.037Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Image&quot;&gt;&lt;a href=&quot;#Image&quot; class=&quot;headerlink&quot; title=&quot;Image&quot;&gt;&lt;/a&gt;Image&lt;/h1&gt;&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div class=&quot;code_lang&quot;&gt;bash&lt;/div&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/tags/%E7%AD%86%E8%A8%98/"/>
+    
+      <category term="docker" scheme="https://ouoholly.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Backup outlook mails via Thunderbird</title>
+    <link href="https://ouoholly.github.io/post/backup-outlook-mails-via-thunderbird/"/>
+    <id>https://ouoholly.github.io/post/backup-outlook-mails-via-thunderbird/</id>
+    <published>2023-07-02T14:00:00.000Z</published>
+    <updated>2023-11-12T06:33:02.674Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-Login-your-email-account-to-Thunderbird&quot;&gt;&lt;a href=&quot;#1-Login-your-email-account-to-Thunderbird&quot; class=&quot;headerlink&quot; title=&quot;1. Login your email account to Thunderbird&quot;&gt;&lt;/a&gt;1. Login your email account to Thunderbird&lt;/h1&gt;&lt;p&gt;Set manual
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="backup" scheme="https://ouoholly.github.io/tags/backup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Run php locally using VS Code (Windows)</title>
+    <link href="https://ouoholly.github.io/post/windows-run-php-using-vs-code/"/>
+    <id>https://ouoholly.github.io/post/windows-run-php-using-vs-code/</id>
+    <published>2023-06-07T12:00:00.000Z</published>
+    <updated>2023-06-08T11:47:10.096Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;How-to-run-php-locally-using-VS-Code-Windows&quot;&gt;&lt;a href=&quot;#How-to-run-php-locally-using-VS-Code-Windows&quot; class=&quot;headerlink&quot; title=&quot;How to run php locally using VS Code (Windows)&quot;&gt;&lt;/a&gt;How to run php locally using VS Code (Windows)&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="php" scheme="https://ouoholly.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Protect file directory using .htaccess</title>
+    <link href="https://ouoholly.github.io/post/protect-file-directory-using-htaccess/"/>
+    <id>https://ouoholly.github.io/post/protect-file-directory-using-htaccess/</id>
+    <published>2023-01-30T12:21:00.000Z</published>
+    <updated>2023-01-30T12:25:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;To prevent file directory be accessed by others, input the line below in &lt;code&gt;.htaccess&lt;/code&gt; file.&lt;/p&gt;
+&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div class=&quot;highlight-tools&quot;&gt;&lt;i class=&quot;fa fa-angle-down code-expand&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="編寫網頁" scheme="https://ouoholly.github.io/categories/%E7%B7%A8%E5%AF%AB%E7%B6%B2%E9%A0%81/"/>
+    
+    
+      <category term="架站" scheme="https://ouoholly.github.io/tags/%E6%9E%B6%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Run php locally (Mac)</title>
+    <link href="https://ouoholly.github.io/post/Run-php-locally/"/>
+    <id>https://ouoholly.github.io/post/Run-php-locally/</id>
+    <published>2023-01-23T09:07:00.000Z</published>
+    <updated>2023-06-07T11:52:48.851Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;How-to-run-php-locally&quot;&gt;&lt;a href=&quot;#How-to-run-php-locally&quot; class=&quot;headerlink&quot; title=&quot;How to run php locally&quot;&gt;&lt;/a&gt;How to run php locally&lt;/h1&gt;&lt;p&gt;In terminal:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;cd to project folder&lt;/p&gt;
+&lt;div class=&quot;code-area-wrap&quot;&gt;&lt;div
+        
+      
+    
+    </summary>
+    
+    
+      <category term="筆記" scheme="https://ouoholly.github.io/categories/%E7%AD%86%E8%A8%98/"/>
+    
+    
+      <category term="php" scheme="https://ouoholly.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RGB to CMYK in Photoshop in batch</title>
+    <link href="https://ouoholly.github.io/post/rgb-to-cmyk-in-Photoshop-in-batch/"/>
+    <id>https://ouoholly.github.io/post/rgb-to-cmyk-in-Photoshop-in-batch/</id>
+    <published>2022-01-11T12:30:00.000Z</published>
+    <updated>2022-01-11T12:33:07.154Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-Show-the-“Action”-panel&quot;&gt;&lt;a href=&quot;#1-Show-the-“Action”-panel&quot; class=&quot;headerlink&quot; title=&quot;1. Show the “Action” panel&quot;&gt;&lt;/a&gt;1. Show the “Action” panel&lt;/h1&gt;&lt;p&gt;&lt;img alt=&quot;1 show Action&quot; data-src=&quot;https://i.imgur.com/cJiBpPp.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="辦公小技巧" scheme="https://ouoholly.github.io/categories/%E8%BE%A6%E5%85%AC%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="Photoshop" scheme="https://ouoholly.github.io/tags/Photoshop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Mac 運行 Windows exe 程式</title>
+    <link href="https://ouoholly.github.io/post/execute-windows-exe-on-mac-using-wine/"/>
+    <id>https://ouoholly.github.io/post/execute-windows-exe-on-mac-using-wine/</id>
+    <published>2021-12-31T14:30:00.000Z</published>
+    <updated>2021-12-31T14:34:30.610Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;What-is-Wine&quot;&gt;&lt;a href=&quot;#What-is-Wine&quot; class=&quot;headerlink&quot; title=&quot;What is Wine?&quot;&gt;&lt;/a&gt;What is Wine?&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.winehq.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.winehq.org/&lt;/a&gt;&lt;br&gt;Wine (originally an acronym
+        
+      
+    
+    </summary>
+    
+    
+      <category term="z_未分類" scheme="https://ouoholly.github.io/categories/z-%E6%9C%AA%E5%88%86%E9%A1%9E/"/>
+    
+    
+      <category term="Mac" scheme="https://ouoholly.github.io/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【個人用途記錄2】Python 爬蟲 - 抓取及解析 HTML 網頁資料</title>
+    <link href="https://ouoholly.github.io/post/python-web-crawl-shhh2/"/>
+    <id>https://ouoholly.github.io/post/python-web-crawl-shhh2/</id>
+    <published>2021-12-30T12:30:00.000Z</published>
+    <updated>2023-05-07T13:43:05.398Z</updated>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted, password is required to continue reading.
+    
+    </summary>
+    
+    
+      <category term="數據處理" scheme="https://ouoholly.github.io/categories/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/"/>
+    
+    
+      <category term="python" scheme="https://ouoholly.github.io/tags/python/"/>
+    
+      <category term="爬蟲" scheme="https://ouoholly.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+  </entry>
+  
+</feed>
